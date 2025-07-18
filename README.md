@@ -1,0 +1,1 @@
+# enerji-paneli-konumland-rma
