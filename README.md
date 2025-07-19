@@ -60,6 +60,9 @@ const API_KEY = 'BURAYA_ANAHTARINIZI_YAZIN';
 - Seçilen alandaki noktalar için sıcaklık ve rüzgar verileri görselleştirilir.
 
 ---
+<img width="978" height="859" alt="t1" src="https://github.com/user-attachments/assets/5775f5c1-8cda-44df-824d-98de10c4f52e" />
+<img width="979" height="946" alt="t2" src="https://github.com/user-attachments/assets/6b410502-5a9a-4800-9754-d3a6ae1c3814" />
+
 
 ## ⚠️ Uyarılar
 
